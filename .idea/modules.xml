@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Echo/app/src/androidTest/androidTest.iml" filepath="$PROJECT_DIR$/Echo/app/src/androidTest/androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Echo/app/build/generated/source/generated.iml" filepath="$PROJECT_DIR$/Echo/app/build/generated/source/generated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Echo/app/src/main/main.iml" filepath="$PROJECT_DIR$/Echo/app/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Echo/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/merged.iml" filepath="$PROJECT_DIR$/Echo/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/merged.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Echo/app/build/generated/not_namespaced_r_class_sources/not_namespaced_r_class_sources.iml" filepath="$PROJECT_DIR$/Echo/app/build/generated/not_namespaced_r_class_sources/not_namespaced_r_class_sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Echo/app/src/test/test.iml" filepath="$PROJECT_DIR$/Echo/app/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
